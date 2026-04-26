@@ -1,0 +1,201 @@
+cliente_id,nome,tipo_cliente,cidade,estado,tensao,data_cadastro,ativo
+1,Academia Almeida,Comercial,São Paulo,SP,Média Tensão,2020-07-03,True
+2,Maria Martins,Residencial,Aracaju,SE,Baixa Tensão,2022-09-25,True
+3,Felipe Rocha,Residencial,Recife,PE,Baixa Tensão,2018-04-19,True
+4,Clínica Almeida,Comercial,Aracaju,SE,Média Tensão,2023-01-14,True
+5,Farmácia Barbosa,Comercial,São Paulo,SP,Média Tensão,2021-10-25,True
+6,João Oliveira,Residencial,Campinas,SP,Baixa Tensão,2022-04-06,True
+7,Academia Santos,Comercial,Porto Velho,RO,Média Tensão,2023-02-25,True
+8,Fábrica de Plásticos Gomes Ltda,Industrial,Maceió,AL,Alta Tensão,2021-04-15,True
+9,Escola Rodrigues,Comercial,São Luís,MA,Média Tensão,2018-10-12,True
+10,Maria Almeida,Residencial,Goiânia,GO,Baixa Tensão,2019-02-18,True
+11,Luciana Carvalho,Residencial,São Luís,MA,Baixa Tensão,2021-12-26,True
+12,Aline Ferreira,Residencial,Belo Horizonte,MG,Baixa Tensão,2023-12-28,True
+13,Marcelo Gomes,Residencial,Maceió,AL,Baixa Tensão,2020-06-18,True
+14,Restaurante Santos,Comercial,Rio de Janeiro,RJ,Média Tensão,2021-07-16,True
+15,Rafael Rodrigues,Residencial,Cuiabá,MT,Baixa Tensão,2023-08-07,True
+16,Indústria Química Nascimento Ltda,Industrial,Teresina,PI,Alta Tensão,2019-07-26,True
+17,Escola Barbosa,Comercial,Porto Alegre,RS,Média Tensão,2022-06-24,True
+18,Siderúrgica Oliveira Ltda,Industrial,Fortaleza,CE,Alta Tensão,2018-07-12,True
+19,Camila Rocha,Residencial,Curitiba,PR,Baixa Tensão,2018-09-18,True
+20,Posto de Gasolina Nascimento,Comercial,Teresina,PI,Média Tensão,2018-02-17,True
+21,Marcelo Araújo,Residencial,Aracaju,SE,Baixa Tensão,2019-04-02,True
+22,Marcelo Lopes,Residencial,São Paulo,SP,Baixa Tensão,2020-01-02,True
+23,Felipe Rocha,Residencial,Goiânia,GO,Baixa Tensão,2020-03-25,True
+24,Posto de Gasolina Silva,Comercial,Aracaju,SE,Média Tensão,2021-08-20,True
+25,Patricia Almeida,Residencial,São Luís,MA,Baixa Tensão,2018-08-26,True
+26,Padaria Pereira,Comercial,Belo Horizonte,MG,Média Tensão,2018-10-11,False
+27,Pedro Pereira,Residencial,Fortaleza,CE,Baixa Tensão,2019-11-08,True
+28,Frigorífico Gomes Ltda,Industrial,Natal,RN,Alta Tensão,2020-04-03,True
+29,Diego Lopes,Residencial,São Luís,MA,Baixa Tensão,2023-01-24,True
+30,Ana Martins,Residencial,Campinas,SP,Baixa Tensão,2020-07-31,True
+31,Fernanda Oliveira,Residencial,Rio de Janeiro,RJ,Baixa Tensão,2018-05-09,True
+32,Marcelo Pereira,Residencial,Recife,PE,Baixa Tensão,2020-05-27,True
+33,Escola Pereira,Comercial,Cuiabá,MT,Média Tensão,2020-09-22,True
+34,Padaria Souza,Comercial,Manaus,AM,Média Tensão,2022-11-01,True
+35,João Santos,Residencial,Rio de Janeiro,RJ,Baixa Tensão,2022-07-08,True
+36,Restaurante Rodrigues,Comercial,Salvador,BA,Média Tensão,2020-02-19,True
+37,Marcelo Ribeiro,Residencial,Curitiba,PR,Baixa Tensão,2020-10-20,True
+38,João Santos,Residencial,Aracaju,SE,Baixa Tensão,2018-03-02,False
+39,Indústria Química Barbosa Ltda,Industrial,Recife,PE,Alta Tensão,2023-06-13,True
+40,Indústria Química Melo Ltda,Industrial,Rio de Janeiro,RJ,Alta Tensão,2018-01-09,False
+41,Patricia Barbosa,Residencial,Teresina,PI,Baixa Tensão,2023-06-17,True
+42,Gustavo Gomes,Residencial,Rio de Janeiro,RJ,Baixa Tensão,2018-09-07,True
+43,Vanessa Lopes,Residencial,Cuiabá,MT,Baixa Tensão,2023-12-16,True
+44,Indústria Química Oliveira Ltda,Industrial,Belo Horizonte,MG,Alta Tensão,2018-10-06,True
+45,Gustavo Almeida,Residencial,Salvador,BA,Baixa Tensão,2018-06-12,True
+46,Gustavo Lopes,Residencial,Cuiabá,MT,Baixa Tensão,2021-07-19,False
+47,Fernanda Nascimento,Residencial,Campinas,SP,Baixa Tensão,2022-06-10,True
+48,Hotel Oliveira,Comercial,Teresina,PI,Média Tensão,2018-02-08,True
+49,Fábrica de Plásticos Gomes Ltda,Industrial,Salvador,BA,Alta Tensão,2020-05-23,True
+50,Maria Almeida,Residencial,São Luís,MA,Baixa Tensão,2022-02-22,True
+51,Patricia Rocha,Residencial,Aracaju,SE,Baixa Tensão,2023-12-07,True
+52,Padaria Costa,Comercial,Goiânia,GO,Média Tensão,2020-12-19,True
+53,Pedro Nascimento,Residencial,Aracaju,SE,Baixa Tensão,2021-02-28,True
+54,Academia Lopes,Comercial,Manaus,AM,Média Tensão,2023-06-25,True
+55,Fábrica de Plásticos Barbosa Ltda,Industrial,Rio de Janeiro,RJ,Alta Tensão,2021-02-07,True
+56,Marcelo Ferreira,Residencial,Fortaleza,CE,Baixa Tensão,2022-12-15,True
+57,João Oliveira,Residencial,São Paulo,SP,Baixa Tensão,2019-09-03,True
+58,Posto de Gasolina Costa,Comercial,Cuiabá,MT,Média Tensão,2022-10-27,True
+59,Juliana Rodrigues,Residencial,Rio de Janeiro,RJ,Baixa Tensão,2020-10-19,True
+60,Camila Rocha,Residencial,Aracaju,SE,Baixa Tensão,2019-09-26,False
+61,Luciana Barbosa,Residencial,Curitiba,PR,Baixa Tensão,2018-04-12,True
+62,Frigorífico Nascimento Ltda,Industrial,Natal,RN,Alta Tensão,2019-10-15,True
+63,Vanessa Almeida,Residencial,Rio de Janeiro,RJ,Baixa Tensão,2020-03-28,True
+64,Fernanda Almeida,Residencial,Goiânia,GO,Baixa Tensão,2018-04-07,True
+65,Maria Nascimento,Residencial,Porto Alegre,RS,Baixa Tensão,2021-12-09,True
+66,Rafael Silva,Residencial,Aracaju,SE,Baixa Tensão,2019-04-18,True
+67,Marcelo Santos,Residencial,Cuiabá,MT,Baixa Tensão,2019-03-21,True
+68,Camila Rocha,Residencial,Campinas,SP,Baixa Tensão,2023-09-26,True
+69,Cimenteira Santos Ltda,Industrial,Manaus,AM,Alta Tensão,2022-11-22,True
+70,Frigorífico Carvalho Ltda,Industrial,Aracaju,SE,Alta Tensão,2022-11-02,True
+71,Escola Araújo,Comercial,Campinas,SP,Média Tensão,2019-05-26,True
+72,Camila Araújo,Residencial,Goiânia,GO,Baixa Tensão,2022-07-07,True
+73,Clínica Melo,Comercial,Manaus,AM,Média Tensão,2019-12-14,True
+74,Ana Lima,Residencial,Aracaju,SE,Baixa Tensão,2021-03-21,True
+75,Hotel Ribeiro,Comercial,Porto Velho,RO,Média Tensão,2022-12-15,True
+76,Luciana Oliveira,Residencial,Campo Grande,MS,Baixa Tensão,2021-03-08,True
+77,Padaria Almeida,Comercial,Campinas,SP,Média Tensão,2021-06-25,True
+78,Carlos Almeida,Residencial,São Paulo,SP,Baixa Tensão,2023-05-01,True
+79,Clínica Martins,Comercial,Teresina,PI,Média Tensão,2020-03-07,True
+80,Fernanda Costa,Residencial,Maceió,AL,Baixa Tensão,2018-01-23,True
+81,Refinaria Almeida Ltda,Industrial,Salvador,BA,Alta Tensão,2019-12-22,True
+82,Supermercado Gomes,Comercial,Teresina,PI,Média Tensão,2020-10-17,False
+83,Diego Lopes,Residencial,Fortaleza,CE,Baixa Tensão,2021-07-23,False
+84,Refinaria Gomes Ltda,Industrial,Porto Velho,RO,Alta Tensão,2023-01-01,True
+85,Loja de Roupas Nascimento,Comercial,Campo Grande,MS,Média Tensão,2020-10-09,True
+86,Vanessa Almeida,Residencial,João Pessoa,PB,Baixa Tensão,2021-01-29,True
+87,Academia Araújo,Comercial,Recife,PE,Média Tensão,2021-08-02,True
+88,Fernanda Melo,Residencial,Fortaleza,CE,Baixa Tensão,2019-09-18,True
+89,Rafael Gomes,Residencial,Natal,RN,Baixa Tensão,2023-03-24,True
+90,Bruno Martins,Residencial,Natal,RN,Baixa Tensão,2018-03-22,True
+91,Loja de Roupas Silva,Comercial,Maceió,AL,Média Tensão,2021-12-11,True
+92,Larissa Gomes,Residencial,Natal,RN,Baixa Tensão,2020-06-22,True
+93,Ana Melo,Residencial,Campo Grande,MS,Baixa Tensão,2021-10-08,True
+94,Loja de Roupas Costa,Comercial,Curitiba,PR,Média Tensão,2023-12-28,True
+95,Ana Oliveira,Residencial,Cuiabá,MT,Baixa Tensão,2022-10-22,True
+96,Marcelo Melo,Residencial,Rio de Janeiro,RJ,Baixa Tensão,2021-09-02,True
+97,Marcelo Barbosa,Residencial,Maceió,AL,Baixa Tensão,2020-10-30,True
+98,Carlos Carvalho,Residencial,Aracaju,SE,Baixa Tensão,2020-07-07,True
+99,Supermercado Almeida,Comercial,Rio de Janeiro,RJ,Média Tensão,2020-03-27,True
+100,Farmácia Pereira,Comercial,Recife,PE,Média Tensão,2019-04-14,True
+101,Juliana Ferreira,Residencial,Porto Alegre,RS,Baixa Tensão,2019-04-15,True
+102,João Martins,Residencial,Goiânia,GO,Baixa Tensão,2018-04-16,False
+103,Clínica Rodrigues,Comercial,Maceió,AL,Média Tensão,2018-11-08,True
+104,Padaria Lima,Comercial,Recife,PE,Média Tensão,2019-05-11,True
+105,Hotel Gomes,Comercial,Rio de Janeiro,RJ,Média Tensão,2022-10-21,True
+106,Ana Barbosa,Residencial,Campinas,SP,Baixa Tensão,2023-07-01,True
+107,Indústria Química Barbosa Ltda,Industrial,Teresina,PI,Alta Tensão,2019-12-23,True
+108,Siderúrgica Ribeiro Ltda,Industrial,Porto Alegre,RS,Alta Tensão,2022-11-20,True
+109,Restaurante Oliveira,Comercial,Campinas,SP,Média Tensão,2021-02-16,True
+110,Gustavo Rocha,Residencial,Teresina,PI,Baixa Tensão,2022-04-02,True
+111,Luciana Pereira,Residencial,Campinas,SP,Baixa Tensão,2020-05-18,True
+112,Aline Nascimento,Residencial,Porto Alegre,RS,Baixa Tensão,2018-02-11,True
+113,Camila Pereira,Residencial,Recife,PE,Baixa Tensão,2020-09-11,True
+114,Loja de Roupas Silva,Comercial,Campo Grande,MS,Média Tensão,2019-01-17,True
+115,Patricia Martins,Residencial,Recife,PE,Baixa Tensão,2022-02-20,True
+116,Larissa Araújo,Residencial,Natal,RN,Baixa Tensão,2021-12-12,True
+117,Fernanda Souza,Residencial,Porto Alegre,RS,Baixa Tensão,2020-02-28,True
+118,Restaurante Rodrigues,Comercial,Curitiba,PR,Média Tensão,2023-06-07,True
+119,Escola Lima,Comercial,João Pessoa,PB,Média Tensão,2019-02-16,True
+120,Luciana Lima,Residencial,São Luís,MA,Baixa Tensão,2018-02-27,True
+121,Carlos Gomes,Residencial,Rio de Janeiro,RJ,Baixa Tensão,2021-04-11,True
+122,João Silva,Residencial,Campo Grande,MS,Baixa Tensão,2021-03-10,True
+123,Carlos Nascimento,Residencial,Curitiba,PR,Baixa Tensão,2023-05-11,True
+124,Maria Martins,Residencial,Campo Grande,MS,Baixa Tensão,2018-08-08,True
+125,Padaria Almeida,Comercial,Goiânia,GO,Média Tensão,2019-05-01,True
+126,Aline Almeida,Residencial,Porto Velho,RO,Baixa Tensão,2023-11-11,True
+127,Refinaria Lima Ltda,Industrial,Goiânia,GO,Alta Tensão,2018-09-04,True
+128,Restaurante Nascimento,Comercial,Manaus,AM,Média Tensão,2018-11-29,True
+129,Luciana Silva,Residencial,Belo Horizonte,MG,Baixa Tensão,2022-08-01,True
+130,Supermercado Almeida,Comercial,Goiânia,GO,Média Tensão,2021-03-26,True
+131,Padaria Almeida,Comercial,Teresina,PI,Média Tensão,2020-12-19,True
+132,Clínica Souza,Comercial,Manaus,AM,Média Tensão,2020-07-09,True
+133,Fábrica de Plásticos Santos Ltda,Industrial,Fortaleza,CE,Alta Tensão,2019-11-11,True
+134,Academia Ribeiro,Comercial,Cuiabá,MT,Média Tensão,2019-05-25,True
+135,Marcelo Lopes,Residencial,Maceió,AL,Baixa Tensão,2023-07-16,True
+136,Hotel Rocha,Comercial,Natal,RN,Média Tensão,2020-10-22,True
+137,Gustavo Silva,Residencial,Cuiabá,MT,Baixa Tensão,2021-01-08,True
+138,Loja de Roupas Lopes,Comercial,Curitiba,PR,Média Tensão,2022-12-17,False
+139,Camila Pereira,Residencial,Cuiabá,MT,Baixa Tensão,2019-01-09,True
+140,João Ferreira,Residencial,Campinas,SP,Baixa Tensão,2021-09-12,True
+141,Larissa Santos,Residencial,Maceió,AL,Baixa Tensão,2023-02-06,True
+142,Bruno Lopes,Residencial,Salvador,BA,Baixa Tensão,2018-01-05,True
+143,Carlos Rodrigues,Residencial,Natal,RN,Baixa Tensão,2023-10-25,True
+144,Supermercado Rodrigues,Comercial,Teresina,PI,Média Tensão,2020-12-29,True
+145,Siderúrgica Souza Ltda,Industrial,Teresina,PI,Alta Tensão,2018-04-29,False
+146,Farmácia Lima,Comercial,Recife,PE,Média Tensão,2018-02-26,True
+147,Diego Souza,Residencial,Salvador,BA,Baixa Tensão,2019-09-23,True
+148,Academia Barbosa,Comercial,João Pessoa,PB,Média Tensão,2023-05-31,False
+149,Pedro Melo,Residencial,Aracaju,SE,Baixa Tensão,2020-02-20,False
+150,Maria Nascimento,Residencial,Fortaleza,CE,Baixa Tensão,2022-08-27,True
+151,Supermercado Lima,Comercial,Porto Alegre,RS,Média Tensão,2021-05-07,True
+152,Farmácia Ribeiro,Comercial,Campo Grande,MS,Média Tensão,2023-06-07,True
+153,Clínica Ribeiro,Comercial,Aracaju,SE,Média Tensão,2021-08-11,True
+154,Refinaria Almeida Ltda,Industrial,Recife,PE,Alta Tensão,2022-08-10,True
+155,Clínica Costa,Comercial,Maceió,AL,Média Tensão,2023-07-22,False
+156,Rafael Souza,Residencial,Cuiabá,MT,Baixa Tensão,2022-12-09,True
+157,Indústria Química Barbosa Ltda,Industrial,São Paulo,SP,Alta Tensão,2019-09-25,True
+158,Hotel Rocha,Comercial,Porto Alegre,RS,Média Tensão,2022-06-17,True
+159,Refinaria Araújo Ltda,Industrial,Aracaju,SE,Alta Tensão,2023-06-22,True
+160,Fernanda Lima,Residencial,Belo Horizonte,MG,Baixa Tensão,2020-07-20,True
+161,João Ribeiro,Residencial,Salvador,BA,Baixa Tensão,2019-11-13,True
+162,Mineradora Santos Ltda,Industrial,Rio de Janeiro,RJ,Alta Tensão,2021-04-16,True
+163,Felipe Barbosa,Residencial,Recife,PE,Baixa Tensão,2020-01-08,True
+164,Aline Almeida,Residencial,Maceió,AL,Baixa Tensão,2023-08-01,False
+165,Marcelo Ribeiro,Residencial,Teresina,PI,Baixa Tensão,2020-11-11,True
+166,Cimenteira Gomes Ltda,Industrial,Teresina,PI,Alta Tensão,2019-10-10,True
+167,Cimenteira Barbosa Ltda,Industrial,Cuiabá,MT,Alta Tensão,2020-10-21,True
+168,Vanessa Souza,Residencial,Maceió,AL,Baixa Tensão,2020-08-29,True
+169,Patricia Silva,Residencial,Goiânia,GO,Baixa Tensão,2022-06-10,True
+170,Escola Pereira,Comercial,Rio de Janeiro,RJ,Média Tensão,2021-03-18,True
+171,Fernanda Rodrigues,Residencial,São Luís,MA,Baixa Tensão,2020-10-23,True
+172,Padaria Santos,Comercial,Fortaleza,CE,Média Tensão,2021-06-19,True
+173,Pedro Oliveira,Residencial,São Luís,MA,Baixa Tensão,2021-04-23,True
+174,Pedro Gomes,Residencial,Manaus,AM,Baixa Tensão,2022-02-07,True
+175,Cimenteira Pereira Ltda,Industrial,Curitiba,PR,Alta Tensão,2021-04-23,True
+176,Diego Oliveira,Residencial,Salvador,BA,Baixa Tensão,2019-07-31,True
+177,Larissa Carvalho,Residencial,Maceió,AL,Baixa Tensão,2019-01-05,True
+178,João Ribeiro,Residencial,Aracaju,SE,Baixa Tensão,2022-02-18,True
+179,Clínica Carvalho,Comercial,Cuiabá,MT,Média Tensão,2019-03-20,True
+180,Larissa Araújo,Residencial,Porto Velho,RO,Baixa Tensão,2020-06-25,True
+181,Academia Barbosa,Comercial,Teresina,PI,Média Tensão,2019-04-23,True
+182,Siderúrgica Souza Ltda,Industrial,Goiânia,GO,Alta Tensão,2019-02-03,True
+183,Diego Carvalho,Residencial,Maceió,AL,Baixa Tensão,2022-09-13,True
+184,Padaria Pereira,Comercial,Natal,RN,Média Tensão,2022-07-30,False
+185,Roberto Ribeiro,Residencial,São Luís,MA,Baixa Tensão,2022-12-27,False
+186,Mineradora Gomes Ltda,Industrial,Salvador,BA,Alta Tensão,2022-01-09,True
+187,Diego Oliveira,Residencial,Salvador,BA,Baixa Tensão,2020-05-18,True
+188,Supermercado Araújo,Comercial,São Paulo,SP,Média Tensão,2020-09-24,False
+189,Padaria Gomes,Comercial,Manaus,AM,Média Tensão,2020-04-28,True
+190,Hotel Costa,Comercial,Recife,PE,Média Tensão,2018-01-12,True
+191,Cimenteira Ferreira Ltda,Industrial,Fortaleza,CE,Alta Tensão,2019-03-27,True
+192,Juliana Almeida,Residencial,São Paulo,SP,Baixa Tensão,2021-08-19,True
+193,Camila Lopes,Residencial,Fortaleza,CE,Baixa Tensão,2019-04-11,True
+194,Felipe Martins,Residencial,São Luís,MA,Baixa Tensão,2019-03-23,True
+195,Carlos Lopes,Residencial,Porto Velho,RO,Baixa Tensão,2021-05-20,True
+196,Siderúrgica Melo Ltda,Industrial,Rio de Janeiro,RJ,Alta Tensão,2022-10-13,True
+197,Maria Oliveira,Residencial,Teresina,PI,Baixa Tensão,2021-08-12,True
+198,Aline Martins,Residencial,Porto Alegre,RS,Baixa Tensão,2021-08-24,True
+199,Loja de Roupas Lopes,Comercial,Goiânia,GO,Média Tensão,2022-10-29,True
+200,Restaurante Barbosa,Comercial,Aracaju,SE,Média Tensão,2023-01-24,True

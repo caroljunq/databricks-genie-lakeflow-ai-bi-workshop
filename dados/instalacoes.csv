@@ -1,0 +1,343 @@
+instalacao_id,cliente_id,tipo_equipamento,fabricante,capacidade_kw,data_instalacao,ultima_manutencao,status,vida_util_anos
+1,1,Medidor Digital,Siemens,495.1,2020-07-27,2021-12-08,Substituído,18
+2,1,UPS,Siemens,239.9,2020-07-06,2023-01-13,Ativo,13
+3,1,UPS,Hitachi,31.2,2020-07-04,2021-12-06,Em Manutenção,7
+4,2,UPS,Schneider Electric,4.4,2022-10-08,2025-08-25,Ativo,14
+5,3,Transformador,GE,3.5,2018-05-05,2022-06-24,Substituído,10
+6,4,No-break Industrial,Eaton,16.7,2023-02-03,2026-04-24,Ativo,5
+7,4,Banco de Capacitores,Delta,282.4,2023-02-02,2025-08-13,Em Manutenção,19
+8,4,Gerador Diesel,Hitachi,32.9,2023-01-25,2025-12-06,Ativo,16
+9,5,Quadro de Distribuição,WEG,126.0,2021-11-03,2024-09-18,Em Manutenção,9
+10,5,Disjuntor Geral,Philips,1.9,2021-11-20,2023-10-15,Ativo,6
+11,6,Subestação,ABB,0.9,2022-04-30,2023-06-26,Ativo,18
+12,7,Disjuntor Geral,Philips,138.4,2023-03-04,2024-03-23,Substituído,20
+13,7,Subestação,Schneider Electric,272.4,2023-03-02,2026-01-12,Ativo,16
+14,7,Quadro de Distribuição,Hitachi,15.7,2023-03-11,2024-04-13,Em Manutenção,15
+15,8,No-break Industrial,Emerson,212.7,2021-04-29,2022-04-16,Ativo,12
+16,8,No-break Industrial,GE,399.0,2021-04-16,2024-05-16,Ativo,14
+17,9,Disjuntor Geral,Eaton,100.1,2018-10-28,2020-11-10,Ativo,8
+18,9,Medidor Digital,Schneider Electric,282.8,2018-11-03,2020-06-07,Ativo,22
+19,10,Painéis Solares,Delta,4.5,2019-03-17,2022-08-29,Ativo,13
+20,11,No-break Industrial,ABB,5.8,2022-01-10,2022-09-07,Ativo,11
+21,12,Disjuntor Geral,Eaton,8.5,2024-01-16,2026-03-16,Desativado,18
+22,13,Transformador,GE,6.1,2020-07-14,2021-11-10,Ativo,9
+23,14,Medidor Digital,Schneider Electric,29.3,2021-08-12,2024-10-07,Ativo,18
+24,14,Gerador Diesel,GE,313.6,2021-07-29,2022-08-18,Ativo,7
+25,14,Medidor Digital,Delta,294.5,2021-08-10,2022-10-02,Ativo,8
+26,15,Medidor Digital,Schneider Electric,7.6,2023-09-05,2025-08-01,Ativo,12
+27,16,UPS,Eaton,2871.1,2019-08-21,2024-02-20,Ativo,7
+28,16,Quadro de Distribuição,Schneider Electric,1278.0,2019-08-05,2024-06-25,Ativo,6
+29,17,Disjuntor Geral,Philips,391.8,2022-07-03,2025-11-23,Ativo,20
+30,17,Transformador,WEG,231.9,2022-07-14,2024-04-12,Ativo,8
+31,17,Banco de Capacitores,Hitachi,278.5,2022-07-20,2025-05-14,Ativo,18
+32,18,Quadro de Distribuição,WEG,2425.0,2018-08-11,2019-08-29,Substituído,20
+33,18,Gerador Diesel,WEG,1166.9,2018-07-27,2022-04-06,Ativo,15
+34,18,No-break Industrial,Emerson,3348.8,2018-07-25,2020-01-30,Ativo,23
+35,18,UPS,Delta,4035.2,2018-07-30,2019-09-16,Ativo,13
+36,18,Quadro de Distribuição,Schneider Electric,1072.1,2018-07-17,2021-06-13,Ativo,19
+37,19,Quadro de Distribuição,ABB,1.3,2018-10-14,2022-04-23,Ativo,10
+38,20,Medidor Digital,Eaton,48.0,2018-03-10,2022-05-18,Substituído,22
+39,20,Transformador,WEG,185.0,2018-03-19,2023-03-09,Em Manutenção,24
+40,20,UPS,Emerson,442.5,2018-03-07,2021-07-19,Em Manutenção,19
+41,21,Transformador,ABB,9.8,2019-04-30,2020-08-22,Substituído,22
+42,22,UPS,Eaton,9.3,2020-01-18,2024-01-18,Ativo,7
+43,23,Gerador Diesel,Eaton,5.6,2020-04-11,2023-01-03,Ativo,8
+44,24,Subestação,Emerson,368.9,2021-09-19,2024-03-16,Ativo,19
+45,24,Disjuntor Geral,Schneider Electric,269.8,2021-09-05,2024-04-07,Ativo,5
+46,25,Medidor Digital,Philips,5.0,2018-09-03,2022-03-12,Ativo,7
+47,26,Banco de Capacitores,Hitachi,43.0,2018-11-06,2020-05-25,Ativo,7
+48,27,Transformador,Siemens,5.4,2019-12-02,2024-01-17,Ativo,23
+49,28,UPS,Philips,2798.7,2020-04-28,2021-09-28,Ativo,19
+50,28,Banco de Capacitores,Hitachi,4716.4,2020-04-26,2025-01-10,Ativo,20
+51,28,Medidor Digital,Eaton,216.2,2020-04-24,2024-05-14,Ativo,8
+52,28,Transformador,Hitachi,2117.9,2020-04-11,2025-03-14,Ativo,6
+53,29,No-break Industrial,Siemens,5.1,2023-02-08,2025-11-12,Ativo,22
+54,30,Painéis Solares,Philips,3.9,2020-08-17,2022-05-18,Em Manutenção,19
+55,31,Banco de Capacitores,Siemens,3.3,2018-05-27,2023-05-15,Ativo,24
+56,32,Gerador Diesel,Hitachi,4.1,2020-06-25,2023-05-04,Ativo,13
+57,33,Gerador Diesel,Delta,256.1,2020-10-05,2021-05-25,Ativo,19
+58,33,Subestação,GE,51.6,2020-09-22,2022-01-28,Ativo,16
+59,33,No-break Industrial,Philips,138.0,2020-10-10,2025-07-12,Ativo,5
+60,34,Gerador Diesel,Emerson,200.4,2022-12-01,2026-02-28,Ativo,12
+61,34,Banco de Capacitores,Siemens,492.5,2022-11-20,2023-08-11,Ativo,9
+62,34,UPS,Hitachi,34.5,2022-11-25,2026-01-02,Ativo,7
+63,35,Transformador,WEG,10.0,2022-07-10,2024-09-11,Ativo,12
+64,36,UPS,Siemens,499.3,2020-03-11,2024-12-02,Desativado,18
+65,36,No-break Industrial,Delta,360.0,2020-02-22,2021-12-09,Desativado,15
+66,37,Medidor Digital,Eaton,3.6,2020-10-25,2022-09-14,Ativo,17
+67,38,Medidor Digital,Siemens,3.9,2018-03-12,2023-01-21,Substituído,14
+68,39,Transformador,Hitachi,487.3,2023-06-17,2025-06-02,Ativo,6
+69,39,Gerador Diesel,Eaton,141.8,2023-07-10,2025-02-04,Ativo,17
+70,39,Disjuntor Geral,Delta,4482.9,2023-07-10,2024-05-14,Substituído,7
+71,39,Gerador Diesel,Hitachi,2691.4,2023-07-07,2026-03-24,Em Manutenção,25
+72,39,Medidor Digital,Philips,2308.9,2023-06-14,2025-12-08,Ativo,8
+73,40,Gerador Diesel,Philips,2585.1,2018-01-11,2021-01-01,Substituído,12
+74,40,UPS,Siemens,4595.6,2018-02-04,2020-06-01,Ativo,13
+75,40,UPS,Emerson,3087.2,2018-01-26,2020-12-05,Desativado,23
+76,40,UPS,Emerson,2202.0,2018-01-21,2022-06-15,Substituído,17
+77,41,Transformador,GE,3.7,2023-07-05,2025-10-01,Ativo,15
+78,42,Medidor Digital,ABB,1.7,2018-10-02,2022-12-11,Ativo,24
+79,43,Medidor Digital,Delta,9.9,2024-01-06,2025-07-08,Ativo,17
+80,44,Transformador,Delta,393.5,2018-10-17,2019-12-03,Ativo,6
+81,44,Subestação,Emerson,4037.6,2018-10-13,2022-08-13,Ativo,15
+82,45,Quadro de Distribuição,ABB,5.4,2018-06-19,2021-04-05,Ativo,16
+83,46,Banco de Capacitores,Delta,0.6,2021-08-07,2022-05-28,Ativo,25
+84,47,Gerador Diesel,Siemens,3.3,2022-06-30,2026-03-13,Substituído,13
+85,48,Banco de Capacitores,Philips,341.4,2018-02-09,2020-03-30,Ativo,22
+86,49,Banco de Capacitores,Schneider Electric,1634.7,2020-06-05,2023-09-16,Ativo,10
+87,49,Gerador Diesel,GE,2118.2,2020-05-23,2025-04-25,Ativo,19
+88,49,Medidor Digital,Hitachi,2253.4,2020-06-02,2023-12-04,Substituído,15
+89,49,No-break Industrial,Emerson,4026.4,2020-06-22,2022-03-16,Ativo,9
+90,49,Painéis Solares,Eaton,3994.8,2020-05-30,2025-04-16,Desativado,9
+91,50,Quadro de Distribuição,Philips,3.7,2022-03-21,2026-04-06,Ativo,8
+92,51,UPS,Hitachi,3.8,2023-12-19,2026-01-30,Desativado,5
+93,52,Banco de Capacitores,Siemens,427.9,2021-01-17,2025-04-28,Ativo,9
+94,52,Disjuntor Geral,Philips,482.2,2020-12-28,2022-07-01,Ativo,20
+95,52,Quadro de Distribuição,GE,306.8,2020-12-28,2023-09-25,Ativo,8
+96,53,Gerador Diesel,ABB,1.4,2021-03-02,2022-08-26,Desativado,21
+97,54,Banco de Capacitores,Schneider Electric,3.6,2023-07-12,2025-12-14,Desativado,22
+98,54,Disjuntor Geral,Hitachi,258.4,2023-06-25,2024-07-30,Ativo,20
+99,55,Quadro de Distribuição,Hitachi,2977.8,2021-02-13,2022-01-21,Substituído,19
+100,55,Medidor Digital,Eaton,2230.9,2021-03-08,2026-01-29,Substituído,18
+101,55,Quadro de Distribuição,Philips,381.2,2021-03-04,2023-02-20,Em Manutenção,10
+102,56,Subestação,Eaton,2.7,2022-12-16,2024-08-04,Em Manutenção,20
+103,57,Banco de Capacitores,GE,7.1,2019-09-13,2021-06-20,Em Manutenção,22
+104,58,Quadro de Distribuição,GE,491.7,2022-11-10,2026-01-26,Substituído,10
+105,59,Transformador,Emerson,7.1,2020-10-28,2022-01-12,Ativo,15
+106,60,Painéis Solares,Eaton,0.9,2019-10-24,2021-09-21,Ativo,18
+107,61,Painéis Solares,Eaton,6.7,2018-04-20,2020-07-03,Ativo,9
+108,62,Transformador,Siemens,4722.3,2019-11-11,2020-10-13,Ativo,19
+109,62,Subestação,Hitachi,3826.9,2019-10-24,2024-08-14,Em Manutenção,20
+110,62,Transformador,Delta,2192.2,2019-11-05,2023-10-26,Em Manutenção,11
+111,63,Gerador Diesel,Siemens,5.1,2020-04-04,2024-06-22,Ativo,22
+112,64,Quadro de Distribuição,ABB,9.0,2018-04-24,2020-12-06,Ativo,5
+113,65,Medidor Digital,ABB,6.3,2021-12-29,2025-07-12,Ativo,12
+114,66,Gerador Diesel,GE,7.3,2019-05-14,2020-02-03,Ativo,17
+115,67,No-break Industrial,GE,7.3,2019-04-09,2024-03-16,Ativo,9
+116,68,Painéis Solares,WEG,8.9,2023-10-04,2026-02-26,Ativo,25
+117,69,Banco de Capacitores,Delta,2371.1,2022-12-08,2023-10-25,Ativo,7
+118,69,Painéis Solares,Siemens,1394.6,2022-12-18,2025-11-02,Ativo,16
+119,70,Medidor Digital,Emerson,1051.7,2022-11-10,2025-09-30,Ativo,16
+120,70,Disjuntor Geral,Hitachi,3097.9,2022-11-24,2023-10-05,Ativo,22
+121,70,Painéis Solares,WEG,3218.4,2022-11-05,2023-06-04,Ativo,22
+122,70,Subestação,Eaton,4370.7,2022-11-16,2026-03-08,Em Manutenção,24
+123,71,UPS,Emerson,257.5,2019-06-13,2022-04-29,Ativo,24
+124,71,Painéis Solares,Delta,289.6,2019-05-27,2021-08-10,Ativo,20
+125,71,Disjuntor Geral,Siemens,127.3,2019-05-29,2021-06-08,Ativo,7
+126,72,Subestação,Philips,7.2,2022-08-03,2025-11-23,Ativo,9
+127,73,No-break Industrial,Hitachi,225.0,2020-01-09,2023-08-21,Ativo,12
+128,74,Transformador,Siemens,9.8,2021-04-08,2026-03-15,Substituído,22
+129,75,Quadro de Distribuição,Hitachi,105.4,2022-12-15,2025-08-23,Ativo,21
+130,75,UPS,Emerson,462.1,2023-01-13,2023-10-21,Ativo,8
+131,76,Medidor Digital,Siemens,2.7,2021-03-09,2022-05-02,Desativado,5
+132,77,Banco de Capacitores,Delta,217.3,2021-07-17,2024-12-17,Ativo,5
+133,78,Subestação,Delta,7.3,2023-05-17,2025-11-24,Ativo,22
+134,79,No-break Industrial,GE,192.2,2020-04-02,2022-05-27,Ativo,6
+135,80,No-break Industrial,Emerson,3.2,2018-02-21,2022-09-11,Ativo,12
+136,81,Medidor Digital,Delta,1382.2,2020-01-09,2023-05-18,Em Manutenção,22
+137,81,No-break Industrial,GE,1547.0,2020-01-11,2021-04-18,Desativado,23
+138,82,Transformador,Schneider Electric,2.3,2020-11-12,2025-02-24,Em Manutenção,5
+139,82,Banco de Capacitores,Siemens,2.3,2020-10-31,2025-07-16,Em Manutenção,13
+140,83,UPS,Philips,4.7,2021-08-22,2023-12-24,Ativo,5
+141,84,Banco de Capacitores,Philips,1343.7,2023-01-14,2025-12-15,Ativo,25
+142,84,Gerador Diesel,ABB,3544.9,2023-01-13,2025-08-09,Em Manutenção,12
+143,85,Subestação,GE,50.7,2020-10-09,2023-10-09,Ativo,23
+144,85,UPS,Delta,21.5,2020-10-17,2025-08-13,Ativo,16
+145,86,No-break Industrial,Philips,4.5,2021-02-22,2024-10-14,Ativo,22
+146,87,UPS,Hitachi,311.1,2021-08-14,2025-02-08,Ativo,24
+147,88,Medidor Digital,Emerson,2.7,2019-10-02,2024-08-23,Ativo,22
+148,89,Transformador,Delta,5.5,2023-04-09,2025-12-02,Ativo,25
+149,90,UPS,ABB,4.0,2018-04-06,2023-02-19,Ativo,23
+150,91,Disjuntor Geral,ABB,284.9,2021-12-16,2024-06-26,Desativado,5
+151,91,No-break Industrial,Siemens,11.6,2022-01-02,2025-10-30,Ativo,18
+152,92,Painéis Solares,Delta,8.6,2020-07-20,2024-12-22,Ativo,23
+153,93,Banco de Capacitores,Schneider Electric,3.4,2021-10-25,2023-05-10,Ativo,5
+154,94,Transformador,Delta,180.9,2024-01-08,2025-04-17,Ativo,8
+155,94,Gerador Diesel,ABB,335.6,2024-01-11,2025-12-30,Ativo,14
+156,94,Transformador,ABB,271.1,2024-01-09,2026-03-09,Em Manutenção,25
+157,95,Gerador Diesel,ABB,6.3,2022-11-08,2024-02-27,Ativo,9
+158,96,Quadro de Distribuição,Siemens,1.8,2021-09-15,2023-09-10,Substituído,15
+159,97,Transformador,Delta,1.0,2020-11-15,2024-08-29,Em Manutenção,13
+160,98,Painéis Solares,Eaton,9.2,2020-07-30,2025-03-03,Ativo,22
+161,99,Painéis Solares,Delta,416.8,2020-04-17,2022-06-07,Ativo,18
+162,99,Quadro de Distribuição,Schneider Electric,422.5,2020-04-20,2023-08-18,Ativo,16
+163,100,UPS,Schneider Electric,469.1,2019-05-10,2019-11-06,Ativo,25
+164,100,Painéis Solares,Philips,137.9,2019-04-26,2021-01-14,Ativo,10
+165,101,Gerador Diesel,Delta,9.9,2019-04-21,2020-07-22,Ativo,22
+166,102,Gerador Diesel,Schneider Electric,1.1,2018-05-05,2020-09-02,Ativo,25
+167,103,Gerador Diesel,Delta,120.6,2018-11-13,2020-04-05,Ativo,18
+168,103,Subestação,GE,3.6,2018-11-10,2021-07-14,Ativo,16
+169,103,Medidor Digital,ABB,58.5,2018-12-08,2022-07-31,Ativo,5
+170,104,Transformador,ABB,157.8,2019-05-16,2022-06-18,Ativo,6
+171,104,No-break Industrial,Delta,27.1,2019-06-03,2021-12-11,Ativo,11
+172,104,Disjuntor Geral,ABB,404.9,2019-05-12,2020-01-14,Ativo,5
+173,105,Gerador Diesel,ABB,438.7,2022-11-20,2026-02-02,Ativo,14
+174,106,Gerador Diesel,WEG,8.2,2023-07-18,2026-02-01,Ativo,23
+175,107,Subestação,Hitachi,1067.1,2020-01-05,2023-10-30,Desativado,16
+176,107,Gerador Diesel,Eaton,4782.8,2019-12-27,2023-10-25,Em Manutenção,18
+177,107,Transformador,Hitachi,3965.3,2020-01-18,2024-08-24,Ativo,9
+178,107,Gerador Diesel,Emerson,413.7,2020-01-07,2021-08-23,Desativado,7
+179,107,Painéis Solares,Schneider Electric,769.1,2019-12-24,2021-12-01,Em Manutenção,24
+180,108,Transformador,Delta,4462.1,2022-11-27,2026-03-10,Ativo,16
+181,108,Subestação,WEG,1687.3,2022-12-04,2024-11-07,Desativado,18
+182,108,Banco de Capacitores,Eaton,4895.1,2022-12-06,2023-10-05,Ativo,18
+183,108,UPS,Emerson,1095.5,2022-12-04,2024-07-02,Em Manutenção,13
+184,108,Subestação,Emerson,976.6,2022-12-18,2025-02-18,Ativo,10
+185,109,Banco de Capacitores,Eaton,203.2,2021-03-13,2022-12-19,Ativo,6
+186,109,Medidor Digital,Delta,408.2,2021-02-26,2023-07-10,Desativado,6
+187,110,Disjuntor Geral,Hitachi,3.7,2022-04-14,2024-10-17,Ativo,17
+188,111,UPS,Siemens,7.4,2020-05-23,2022-01-14,Ativo,6
+189,112,Painéis Solares,ABB,0.9,2018-02-28,2020-07-09,Ativo,14
+190,113,UPS,ABB,9.0,2020-10-04,2021-05-28,Ativo,7
+191,114,Subestação,Philips,47.8,2019-01-31,2023-12-11,Substituído,5
+192,115,Gerador Diesel,Delta,7.0,2022-02-24,2024-06-25,Ativo,10
+193,116,Medidor Digital,Philips,7.3,2021-12-17,2026-01-03,Ativo,12
+194,117,Transformador,Siemens,10.0,2020-03-09,2022-03-07,Desativado,9
+195,118,UPS,GE,436.0,2023-06-21,2025-09-20,Ativo,10
+196,119,Medidor Digital,ABB,160.1,2019-03-12,2023-08-10,Ativo,10
+197,119,UPS,Eaton,220.4,2019-03-17,2021-08-23,Desativado,15
+198,120,Gerador Diesel,Schneider Electric,9.6,2018-02-28,2021-02-09,Ativo,19
+199,121,Quadro de Distribuição,Delta,6.2,2021-05-03,2022-11-25,Ativo,16
+200,122,UPS,GE,6.6,2021-04-01,2025-11-27,Desativado,7
+201,123,Banco de Capacitores,Eaton,9.6,2023-05-12,2023-11-27,Ativo,14
+202,124,Medidor Digital,WEG,7.1,2018-09-01,2023-03-16,Ativo,5
+203,125,Medidor Digital,WEG,214.5,2019-05-12,2020-07-23,Ativo,14
+204,125,Subestação,Eaton,313.6,2019-05-03,2020-03-25,Desativado,12
+205,126,UPS,Hitachi,9.0,2023-12-01,2026-04-18,Substituído,16
+206,127,No-break Industrial,GE,3430.3,2018-09-28,2023-06-10,Ativo,6
+207,127,Transformador,Schneider Electric,297.1,2018-09-15,2021-05-16,Substituído,23
+208,127,Medidor Digital,Schneider Electric,1989.2,2018-10-04,2022-06-27,Ativo,22
+209,127,Subestação,Philips,3585.8,2018-09-05,2019-08-01,Ativo,6
+210,128,Disjuntor Geral,Emerson,133.9,2018-12-27,2020-10-31,Ativo,11
+211,128,UPS,Eaton,153.7,2018-12-20,2020-07-18,Ativo,16
+212,128,Medidor Digital,Schneider Electric,196.6,2018-12-26,2020-09-26,Ativo,10
+213,129,Medidor Digital,WEG,2.0,2022-08-11,2024-12-09,Ativo,5
+214,130,Banco de Capacitores,GE,127.9,2021-04-10,2022-12-16,Desativado,10
+215,131,Subestação,Eaton,92.3,2020-12-22,2024-01-16,Ativo,10
+216,131,Quadro de Distribuição,WEG,394.7,2021-01-09,2024-09-22,Ativo,8
+217,132,Medidor Digital,Hitachi,20.4,2020-07-09,2025-02-22,Desativado,18
+218,133,Medidor Digital,Emerson,2779.2,2019-11-22,2021-10-02,Ativo,13
+219,133,Quadro de Distribuição,ABB,442.4,2019-11-18,2020-06-13,Ativo,12
+220,134,Gerador Diesel,GE,478.9,2019-06-13,2019-12-23,Desativado,19
+221,135,Subestação,Emerson,4.8,2023-07-26,2025-12-02,Desativado,10
+222,136,UPS,Philips,156.2,2020-10-27,2024-08-22,Ativo,12
+223,137,Banco de Capacitores,Siemens,8.1,2021-02-07,2022-12-11,Desativado,9
+224,138,Subestação,Siemens,39.3,2022-12-28,2025-06-19,Ativo,19
+225,138,UPS,Siemens,1.0,2023-01-14,2023-09-01,Ativo,7
+226,139,Quadro de Distribuição,WEG,7.3,2019-02-03,2021-07-07,Ativo,10
+227,140,Quadro de Distribuição,ABB,6.6,2021-09-18,2024-08-16,Ativo,10
+228,141,Subestação,ABB,5.5,2023-02-08,2025-07-29,Desativado,5
+229,142,UPS,ABB,4.6,2018-01-26,2020-08-12,Em Manutenção,21
+230,143,Subestação,GE,3.7,2023-11-07,2025-07-12,Ativo,23
+231,144,Disjuntor Geral,Delta,84.2,2021-01-16,2025-09-27,Ativo,17
+232,144,Medidor Digital,Schneider Electric,375.3,2021-01-15,2024-06-06,Em Manutenção,12
+233,145,UPS,WEG,336.3,2018-05-16,2023-02-26,Substituído,24
+234,145,Subestação,Hitachi,2398.2,2018-05-29,2019-10-07,Ativo,21
+235,145,Gerador Diesel,Schneider Electric,3287.0,2018-05-07,2020-09-12,Substituído,9
+236,145,Disjuntor Geral,Siemens,6.6,2018-05-04,2022-11-18,Ativo,11
+237,145,Subestação,Siemens,3126.5,2018-05-18,2020-07-09,Em Manutenção,12
+238,146,Medidor Digital,Eaton,44.8,2018-03-19,2019-07-30,Ativo,13
+239,147,Quadro de Distribuição,Emerson,7.6,2019-10-13,2021-06-16,Ativo,16
+240,148,Medidor Digital,Siemens,368.0,2023-06-19,2026-03-06,Em Manutenção,9
+241,148,Medidor Digital,Eaton,468.6,2023-06-01,2026-03-03,Ativo,12
+242,148,Quadro de Distribuição,Delta,249.3,2023-06-27,2024-09-17,Desativado,9
+243,149,No-break Industrial,GE,7.3,2020-03-13,2021-04-08,Ativo,9
+244,150,Banco de Capacitores,GE,8.9,2022-09-12,2023-09-18,Ativo,17
+245,151,Medidor Digital,GE,357.8,2021-05-07,2025-08-31,Ativo,19
+246,152,Banco de Capacitores,Hitachi,48.4,2023-06-21,2025-12-15,Ativo,9
+247,152,Medidor Digital,Siemens,495.3,2023-07-01,2024-05-21,Ativo,7
+248,153,UPS,Schneider Electric,430.4,2021-08-20,2024-03-31,Ativo,21
+249,153,Medidor Digital,Eaton,124.3,2021-08-17,2022-10-15,Substituído,22
+250,154,Banco de Capacitores,Siemens,754.6,2022-08-12,2026-01-16,Ativo,11
+251,154,Banco de Capacitores,Delta,70.5,2022-09-09,2023-11-05,Ativo,17
+252,154,Banco de Capacitores,Philips,2302.8,2022-08-27,2025-03-18,Em Manutenção,6
+253,154,Banco de Capacitores,Siemens,421.0,2022-08-22,2024-06-10,Ativo,17
+254,155,Gerador Diesel,Hitachi,143.8,2023-08-02,2024-05-31,Em Manutenção,13
+255,155,Disjuntor Geral,Philips,196.1,2023-07-31,2026-04-16,Ativo,14
+256,156,No-break Industrial,Hitachi,4.5,2022-12-28,2026-03-08,Ativo,25
+257,157,No-break Industrial,Siemens,4232.6,2019-09-30,2022-10-13,Ativo,18
+258,157,Transformador,Eaton,4843.3,2019-10-23,2020-12-16,Ativo,18
+259,157,Painéis Solares,Emerson,3477.3,2019-10-16,2021-01-19,Ativo,9
+260,157,Subestação,Emerson,3181.3,2019-09-28,2024-01-15,Substituído,22
+261,157,UPS,Hitachi,490.9,2019-10-18,2023-01-19,Ativo,18
+262,158,Gerador Diesel,ABB,329.2,2022-07-07,2024-05-08,Ativo,17
+263,159,Subestação,GE,4025.1,2023-06-29,2025-02-09,Desativado,14
+264,159,Painéis Solares,Schneider Electric,1823.7,2023-07-22,2026-03-09,Ativo,12
+265,159,Medidor Digital,WEG,388.2,2023-06-30,2025-02-13,Em Manutenção,16
+266,159,Disjuntor Geral,Philips,140.4,2023-07-19,2025-12-11,Substituído,13
+267,160,Banco de Capacitores,Hitachi,6.9,2020-07-31,2023-09-10,Ativo,19
+268,161,Gerador Diesel,GE,9.5,2019-11-25,2023-09-06,Ativo,12
+269,162,Disjuntor Geral,Eaton,1965.4,2021-04-27,2024-12-22,Substituído,24
+270,162,Banco de Capacitores,ABB,2154.8,2021-05-10,2024-08-31,Desativado,9
+271,162,Painéis Solares,Eaton,1850.0,2021-04-18,2022-10-12,Ativo,5
+272,162,UPS,Eaton,2540.5,2021-05-04,2023-09-11,Em Manutenção,10
+273,162,UPS,Siemens,1615.8,2021-05-10,2024-02-01,Substituído,23
+274,163,Gerador Diesel,Delta,2.2,2020-01-20,2022-10-09,Desativado,12
+275,164,Quadro de Distribuição,WEG,4.0,2023-08-01,2026-02-14,Em Manutenção,8
+276,165,Banco de Capacitores,ABB,9.4,2020-11-19,2022-05-24,Ativo,13
+277,166,Quadro de Distribuição,Philips,4083.0,2019-10-17,2024-09-23,Ativo,15
+278,166,No-break Industrial,Schneider Electric,2264.3,2019-11-07,2022-01-27,Ativo,19
+279,166,Medidor Digital,Schneider Electric,2671.0,2019-10-17,2020-11-13,Ativo,8
+280,167,Painéis Solares,Siemens,710.9,2020-11-20,2024-05-10,Ativo,16
+281,167,Disjuntor Geral,ABB,4580.8,2020-11-13,2024-06-09,Ativo,15
+282,167,Painéis Solares,Eaton,3695.8,2020-10-26,2022-06-26,Ativo,21
+283,167,Gerador Diesel,Eaton,4220.8,2020-11-15,2023-12-13,Ativo,20
+284,167,Disjuntor Geral,WEG,3214.3,2020-10-22,2021-12-06,Ativo,25
+285,168,Medidor Digital,Emerson,4.4,2020-09-27,2025-01-09,Ativo,9
+286,169,Disjuntor Geral,Delta,1.8,2022-06-17,2025-06-11,Ativo,15
+287,170,Disjuntor Geral,Schneider Electric,56.2,2021-03-24,2022-10-24,Desativado,25
+288,170,Painéis Solares,Siemens,406.9,2021-04-13,2022-01-13,Substituído,7
+289,171,Painéis Solares,Emerson,6.8,2020-10-23,2023-05-13,Ativo,5
+290,172,Quadro de Distribuição,Siemens,33.3,2021-07-04,2025-10-28,Ativo,19
+291,173,Transformador,Philips,0.8,2021-05-14,2022-12-14,Ativo,23
+292,174,No-break Industrial,Philips,5.5,2022-03-01,2026-03-25,Ativo,7
+293,175,No-break Industrial,ABB,991.0,2021-04-28,2022-01-04,Ativo,16
+294,175,Subestação,Philips,880.5,2021-05-15,2022-09-22,Em Manutenção,24
+295,175,UPS,Delta,3920.6,2021-05-13,2022-11-25,Ativo,16
+296,175,Painéis Solares,WEG,4547.8,2021-05-23,2025-05-02,Ativo,9
+297,175,Disjuntor Geral,WEG,3496.7,2021-05-13,2025-09-28,Ativo,21
+298,176,Quadro de Distribuição,Schneider Electric,3.2,2019-08-19,2023-07-14,Desativado,12
+299,177,No-break Industrial,Siemens,2.7,2019-01-30,2021-07-23,Ativo,21
+300,178,Disjuntor Geral,Philips,1.4,2022-03-01,2022-11-07,Ativo,19
+301,179,Banco de Capacitores,Hitachi,249.2,2019-04-05,2020-10-19,Substituído,21
+302,180,No-break Industrial,Philips,0.9,2020-07-20,2021-12-06,Ativo,8
+303,181,Painéis Solares,Emerson,111.5,2019-05-05,2020-05-23,Substituído,22
+304,182,Disjuntor Geral,Philips,4615.3,2019-02-25,2020-02-23,Em Manutenção,22
+305,182,Banco de Capacitores,Delta,1001.9,2019-03-02,2021-02-07,Ativo,13
+306,182,No-break Industrial,WEG,4910.8,2019-02-07,2020-05-29,Substituído,9
+307,183,Subestação,Schneider Electric,6.5,2022-10-13,2024-03-06,Em Manutenção,14
+308,184,Subestação,Hitachi,77.6,2022-08-03,2025-01-07,Em Manutenção,25
+309,184,Quadro de Distribuição,GE,202.8,2022-08-26,2024-03-05,Ativo,24
+310,185,Painéis Solares,Schneider Electric,9.1,2023-01-06,2024-09-09,Ativo,25
+311,186,Transformador,ABB,2658.1,2022-02-05,2026-02-22,Ativo,20
+312,186,No-break Industrial,Schneider Electric,2428.1,2022-01-17,2023-02-15,Ativo,22
+313,186,Transformador,Emerson,1620.1,2022-02-08,2024-04-22,Ativo,7
+314,186,Quadro de Distribuição,Philips,3305.7,2022-01-16,2026-01-17,Ativo,14
+315,186,No-break Industrial,Hitachi,4140.9,2022-01-30,2024-10-23,Ativo,16
+316,187,Painéis Solares,Eaton,8.0,2020-05-30,2021-04-04,Ativo,15
+317,188,Quadro de Distribuição,ABB,184.5,2020-10-12,2021-09-05,Ativo,13
+318,188,UPS,GE,165.3,2020-09-26,2021-08-30,Ativo,23
+319,189,Banco de Capacitores,Hitachi,492.4,2020-04-30,2024-01-20,Ativo,19
+320,189,Painéis Solares,Siemens,30.6,2020-05-15,2023-08-25,Em Manutenção,9
+321,189,Quadro de Distribuição,Philips,488.2,2020-04-28,2022-03-28,Ativo,7
+322,190,Disjuntor Geral,ABB,68.4,2018-02-08,2022-04-03,Ativo,9
+323,190,No-break Industrial,Hitachi,122.2,2018-01-21,2018-12-17,Em Manutenção,24
+324,190,Subestação,Hitachi,323.8,2018-01-24,2021-02-24,Ativo,23
+325,191,Quadro de Distribuição,Philips,2453.0,2019-04-02,2020-02-27,Ativo,7
+326,191,Quadro de Distribuição,Siemens,2189.5,2019-04-21,2023-03-03,Ativo,5
+327,191,UPS,Emerson,2674.1,2019-04-10,2021-08-31,Ativo,22
+328,191,No-break Industrial,WEG,4703.6,2019-04-09,2021-09-26,Ativo,14
+329,191,UPS,ABB,3150.0,2019-04-02,2020-05-22,Ativo,14
+330,192,Subestação,Hitachi,6.6,2021-08-25,2022-04-25,Ativo,8
+331,193,Quadro de Distribuição,ABB,6.1,2019-04-15,2020-01-13,Ativo,5
+332,194,Disjuntor Geral,Philips,3.1,2019-04-16,2021-09-26,Ativo,25
+333,195,Disjuntor Geral,Schneider Electric,7.3,2021-06-03,2026-02-12,Ativo,18
+334,196,Gerador Diesel,Emerson,3327.1,2022-10-25,2025-01-09,Ativo,17
+335,196,UPS,Delta,4616.8,2022-10-22,2026-01-01,Desativado,7
+336,196,Banco de Capacitores,GE,2133.4,2022-10-26,2024-06-09,Substituído,13
+337,196,Medidor Digital,Schneider Electric,2033.8,2022-11-09,2025-03-15,Ativo,12
+338,196,Medidor Digital,Hitachi,3695.7,2022-10-28,2024-06-06,Substituído,23
+339,197,Quadro de Distribuição,Delta,4.7,2021-08-25,2025-08-06,Ativo,25
+340,198,Painéis Solares,Siemens,5.9,2021-09-11,2025-10-31,Ativo,15
+341,199,UPS,Delta,359.6,2022-10-30,2026-01-21,Ativo,16
+342,200,Disjuntor Geral,Philips,337.4,2023-01-29,2026-03-15,Ativo,12
